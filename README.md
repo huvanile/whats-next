@@ -72,3 +72,10 @@ To update, run `git pull` inside the installed folder.
 ## Use
 
 Invoke `/whats-next` in Claude Code or GitHub Copilot, or `$whats-next` in Codex. The skill inspects only the current repository. It recommends work read-only and never assigns an issue without your explicit confirmation. After a verified claim, it uses `ask-matt` to route the appropriate workflow.
+
+## Official installation references
+
+- [Claude Code skills](https://code.claude.com/docs/en/skills)
+- [GitHub Copilot agent skills](https://docs.github.com/en/copilot/concepts/customizations/agent-skills)
+- [GitHub Copilot CLI skills](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-skills)
+- [Codex skills](https://developers.openai.com/codex/skills)
